@@ -1,0 +1,13 @@
+# Configurações locais e segredos
+.env
+.env.*
+!.env.example
+
+# Arquivos temporários
+*.log
+.DS_Store
+Thumbs.db
+
+# Dependências geradas
+/vendor/
+teste_conexao.php
